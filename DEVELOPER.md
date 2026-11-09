@@ -91,8 +91,8 @@ When adding new skills or modifying existing behavior, you should add or update 
 The primary maintainers for this repository are defined in the
 [`.github/CODEOWNERS`](.github/CODEOWNERS) file:
 
-*   `@gemini-cli-extensions/senseai-eco`
-*   `@gemini-cli-extensions/cloud-sql-mysql-maintainers`
+*   `@GoogleCloudPlatform/senseai-eco`
+*   `@GoogleCloudPlatform/cloud-sql-mysql-plugin-maintainers`
 
 ### Releasing
 
