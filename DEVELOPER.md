@@ -20,7 +20,7 @@ Before you begin, ensure you have the following:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/gemini-cli-extensions/cloud-sql-mysql.git
+    git clone https://github.com/GoogleCloudPlatform/cloud-sql-mysql-plugin.git
     cd cloud-sql-mysql
     ```
 
